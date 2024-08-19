@@ -1,9 +1,14 @@
-# Airline-Reservation-System
+A# Airline-Reservation-System
 A user-friendly Airline Reservation System designed to manage flight bookings, reservations, and cancellations efficiently, with all operations managed by an administrator.
 
 Firstly set up a Database, I have used XAMPP for setting up the DB.
 
 ![image](https://github.com/user-attachments/assets/aed0a01a-cbc7-4c2f-b4b9-e5458f94f1af)
+
+![image](https://github.com/user-attachments/assets/9f05bdf6-7f7a-44ae-a4de-c6558ce593bc)
+
+
+![image](https://github.com/user-attachments/assets/3b754941-3e50-4fac-8293-cbeec65e1087)
 
 
 ![image](https://github.com/user-attachments/assets/fc846e8f-e361-42b7-9d16-ef256f840968)
